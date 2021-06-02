@@ -20,25 +20,25 @@ the user is able to give comma seprated roll numbers and can get all the data of
 **Test Cases with Screenshots**
 *Test Case 1*
 
-**N = 5**
+**N = 6**
 
 ![](./Capture.PNG)
 
 *Test Case 2*
 
-**N = 9**
+**N = 2**
 
 ![](./Capture1.PNG)
 
 *Test Case 3*
 
-**N = 16**
+**N = 4**
 
 ![](./Capture2.PNG)
 
 *Test Case 4*
 
-**N = 156**
+**N = 5**
 
 ![](./Capture3.PNG)
 
